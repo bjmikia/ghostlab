@@ -45,7 +45,6 @@ Utils.java : Contient les fonctions auxilières réutilisées plusieurs fois tel
 
 
 ------------------------------------------------ Auteurs ------------------------------------------------
-Groupe 30: 
 
 NODIN Aurélie
 
@@ -85,19 +84,3 @@ NASR Amira
                     AuxFunctions.java
 
             Implèmentation de Utils.java
-
-
-
-    
-
-    ===> après avoir réuni notre travail , chaque membre a participé au déploiment 
-        des tests pour faire fonctionner le jeu (correction code / modification des implèmentations ..etc).
-
-
-
-
------------------------------------------------- Conclusion ------------------------------------------------
-Nous avons pu employer tout ce que nous avons appris en C et JAVA pendant ce semestre, le cours Programmation Réseaux ayant été d'une
-importance particulière. En effet, il nous a permis de comprendre les bases du travail en groupe avec les systèmes de contrôle de
-versions (git).
-Dans l'ensemble, il y avait une bonne coordination dans les rôles de chacun et une bonne entente au sein de l'équipe était présente
