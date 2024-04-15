@@ -3,7 +3,7 @@
 ------------------------------------------------ Présentation ------------------------------------------------
 
 
-L’objectif de ce projet est de réaliser un serveur permettant de jouer à un jeu : Ghostlab. Un client doit pouvoir créer un nouveau joueur,créer une nouvelle partie ou en rejoindre une mais également d'interroger le serveur sur les caracteristiques d'une partie. Le serveur doit lancer la partie quand tous les joueurs sont prêts et les joueurs peuvent jouer en écrivant des commandes au serveur. Le but étant d'avoir le plus de points en attrapant des fantomes dans un labyrinthe à l'aveugle. Le deuxieme objectif est de créer un clien type pour le serveur.
+L’objectif de ce projet est de réaliser un serveur permettant de jouer à un jeu : Ghostlab. Un client doit pouvoir créer un nouveau joueur,créer une nouvelle partie ou en rejoindre une mais également d'interroger le serveur sur les caracteristiques d'une partie. Le serveur doit lancer la partie quand tous les joueurs sont prêts et les joueurs peuvent jouer en écrivant des commandes au serveur. Le but étant d'avoir le plus de points en attrapant des fantomes dans un labyrinthe à l'aveugle. Le deuxieme objectif est de créer un client type pour le serveur.
 
 
 ------------------------------------------------ Commandes de lancement ------------------------------------------------
